@@ -1,0 +1,68 @@
+.card{
+    width: 100%;
+    margin-left: 150px;
+}
+.card a{
+    position: absolute;
+    top: 20%;
+    text-decoration: none;
+}
+#checkbox{
+    position: absolute;
+    top: 30%;
+    left: 5px;
+    transform: scale(1.7);
+}
+.cart-right{
+    position: absolute;
+    right: 20%;
+}
+
+.cart-right-remove .cart-remove-btn{
+   color: rgb(222, 39, 39);
+   position: absolute;
+   right: -67px;
+   top: 0;
+   
+}
+.clear-add{
+ position: absolute;
+ bottom: 50px;
+ right: 10%;
+ 
+}
+.clear-add a{
+    color: black;
+    font-size: 2rem;
+}
+.price{
+    display: inline-block;
+  position: absolute;
+  right: 10px;
+}
+.list-group-item{
+    position: absolute;
+    right: 0;
+}
+.free{
+    display: inline-block;
+  position: absolute;
+  right: 10px;
+}
+.kingdom{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top:80px;
+}
+.total{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top:130px;
+}
+.bokss{
+    position: absolute;
+    right: 10%;
+    top: 10%;
+}
